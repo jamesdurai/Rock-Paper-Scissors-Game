@@ -24,7 +24,7 @@ if (playGame){
     
             computerChoice === 2 ? "paper":
 
-            "sessiors";
+            "scissors";
 
             let result =
              playerOne === computer
